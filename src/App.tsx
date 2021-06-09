@@ -5,7 +5,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      I will develop this in typescript
+      <div className="name-wrapper">
+<label>Enter Name</label>
+<input type="text"/>
+      </div>
      
     </div>
   );
