@@ -3,7 +3,7 @@ import React from 'react';
 const Footer:React.FC=()=>{
 return(
     <div className="Footer">
-This is footer
+Happy Task Finishing!
     </div>
 )
 }
