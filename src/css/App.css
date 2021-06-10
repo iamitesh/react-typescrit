@@ -1,0 +1,34 @@
+.Header{
+    text-align: center;
+    background-color: #2bb7e2;
+    align-items: center;
+    padding:20px;
+    font-weight: bolder;
+}
+
+.Footer{
+    text-align: center;
+    background-color: #2bb7e2;
+    align-items: center;
+    padding:20px;
+    font-weight: bolder;
+}
+
+.NewTodo{
+    margin:50px 30%;
+    display: flex;
+    flex-direction: column;
+}
+.NewTodo button{
+    margin:20px 30%;
+background-color:#2be259 ;
+}
+.NewTodo .InputWrapper{
+    display:flex;
+
+}
+.InputWrapper .InputLabel,
+.InputWrapper .InputTitle{
+    margin:10px;
+
+}
